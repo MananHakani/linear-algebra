@@ -7,9 +7,11 @@ print("Linear Algebra Practical No.1\n\
 
 #Initializing complex numbers - x & y
 x, y = 1+3j, 2+3j
+print(f"Addition of two complex numbers = {x+y}")
 
-print(f"Addition of complex numbers = {x+y}")
-print(f"Conjugate of x = {x.conjugate()}")
+#Conjugate of complex number
+a=4+2j
+print(f"Conjugate of a given complex number = {a.conjugate()}")
 
 
 #library for plotting graphs
