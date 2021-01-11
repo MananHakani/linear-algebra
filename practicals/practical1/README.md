@@ -1,24 +1,24 @@
 # Linear Algebra using Python: Practical No. 1
 
-Write practical on college sheets
+### Write practical on college sheets
 
-Practical No.1
+### Practical No.1
 
-Aim: 
+**Aim**: 
 
-Code: 
+**Code**: 
 1. Write code 
 2. Mention your full name and roll no in code. 
 
-Output: 
+**Output**: 
 1. Write Output
 
-Screenshots: 
-1. Code AND Output [With date and time] 
+**Screenshots**: 
+1. Code AND Output (With date and time)
 2. no edit, no cropping, full screen should be visible
 3. Full-Screen screenshots must be attached in the document
 
-Document: 
+**Document**: 
 1. Make a single PDF file to submit the assignment.
 2. Document should be in proper order/format as given.
 3. All the pages inside the document should be vertical only.
@@ -27,7 +27,7 @@ Document:
 6. Write your full name and sign on each page with date.
 7. Code & Output Print-Screen with system date and time.
 
-Practical writing format:
+**Practical writing format**:
 1. Practical No.
 2. Aim:
 3. Description/Writeup:
