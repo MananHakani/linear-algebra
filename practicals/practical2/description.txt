@@ -1,0 +1,19 @@
+Q.1 Define vector
+
+  A vector is a list of numbers. There are (at least) two ways to interpret what this list of
+numbers mean: One way to think of the vector as being a point in a space. Then this list of numbers is a
+way of identifying that point in space, where each number represents the vector’s component that
+dimension. Another way to think of a vector is a magnitude and a direction, e.g. a quantity like velocity
+(“the fighter jet’s velocity is 250 mph north-by-northwest”). In this way of think of it, a vector is a
+directed arrow pointing from the origin to the end point given by the list of numbers.
+
+Q.2 Explain numpy
+
+  NumPy is a Python library used for working with arrays. It also has functions for working in domain of
+linear algebra, fourier transform, and matrices. NumPy was created in 2005 by Travis Oliphant. It is an 
+open source project and you can use it freely. NumPy stands for Numerical Python.
+
+Q.3 What is dot product?
+
+  Algebraically, the dot product is the sum of the products of the corresponding entries of the two 
+sequences of numbers.
